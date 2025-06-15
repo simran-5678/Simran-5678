@@ -1,4 +1,6 @@
-https://github.com/simran-5678/Simran-5678/blob/bd79f6cc05b72d93e38c8607dddc344a30389d08/file_000000008dd461f69850db4c3dd9739a%20(1).png
+<p align="center">
+  <img src="https://github.com/simran-5678/Simran-5678/blob/bd79f6cc05b72d93e38c8607dddc344a30389d08/file_000000008dd461f69850db4c3dd9739a%20(1).png?raw=true" alt="Banner" />
+</p>
 
 <p align="center">
   <img src="https://github.com/vaishnavisonkhaskar/vaishnavisonkhaskar/blob/main/banner.jpg" alt="Vaishnavi Sonkhaskar Banner">
