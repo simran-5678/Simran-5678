@@ -1,15 +1,5 @@
-https://github.com/vaishnavisonkhaskar/vaishnavisonkhaskar/blob/main/banner.jpg
-
 <p align="center">
-  <img src="https://github.com/vaishnavisonkhaskar/vaishnavisonkhaskar/blob/main/profile-photo.jpg" alt="Vaishnavi Sonkhaskar" width="150" style="border-radius:50%;border:5px solid #4A90E2;">
-</p>
-
-<h1 align="center">Hi I am <span style="color:#4A90E2;">VAISHNAVI SONKHASKAR</span></h1>
-
-<h3 align="center" style="color:#4A90E2;">Software Engineer</h3>
-
-<p align="center">
-Robotic and Python Backend Development Enthusiast.
+  <img src="https://github.com/vaishnavisonkhaskar/vaishnavisonkhaskar/blob/main/banner.jpg" alt="Vaishnavi Sonkhaskar Banner">
 </p>
 
 ---
@@ -21,6 +11,7 @@ Robotic and Python Backend Development Enthusiast.
 - 🧮 Data Structures and Algorithms Enthusiast.
 - 🌐 Exploring Cloud, AI, Machine Learning, and Automation.
 - 📫 Email me at: vaishnavisonkhaskar6@gmail.com
+- 🎓 Shri Guru Gobind Singh ji Institute of Engineering and Technology (SGGSIET), Nanded
 
 ---
 
@@ -55,4 +46,6 @@ Robotic and Python Backend Development Enthusiast.
 <p align="center">
   <a href="mailto:vaishnavisonkhaskar6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/your-linkedin-id/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/covey_list_82"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://share.google/kvAPAWQFyQUnZyzoU"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
