@@ -15,8 +15,9 @@ Robotic and Python Backend Development Enthusiast.
 ### 💫 About Me:
 
 - 🤖 Robotics Developer | Python Backend Developer
-- 🐍 Love working on automation and intelligent systems
-- 🌐 Exploring Cloud, AI & Machine Learning
+- 🐍 Love working on automation, intelligent systems & backend.
+- 🧮 Data Structures and Algorithms Enthusiast.
+- 🌐 Exploring Cloud, AI, Machine Learning, and Automation.
 - 📫 Email me at: vaishnavisonkhaskar6@gmail.com
 
 ---
@@ -24,12 +25,17 @@ Robotic and Python Backend Development Enthusiast.
 ### 🚀 Tech Stack:
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-FFA500?style=for-the-badge&logo=data&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
 </p>
 
 ---
