@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://github.com/simran-5678/Simran-5678/blob/bd79f6cc05b72d93e38c8607dddc344a30389d08/file_000000008dd461f69850db4c3dd9739a%20(1).png?raw=true" alt="Banner" />
 </p>
+<p align="center">
+  <img src="https://github.com/your-username/your-repo-name/blob/main/assets/ssoc-badge.png?raw=true" alt="SSOC Contributor 2025" width="150"/>
+</p>
 
 ### 💫 About Me:
 
