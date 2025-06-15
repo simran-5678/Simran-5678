@@ -1,4 +1,4 @@
-### Hey Sourav here 👋
+### Hey Simran here 👋
 
 ---
 
@@ -8,13 +8,13 @@
 
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+ 🔭 I’m planning for a Project **Vision: product recommendation system**.
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+ 👯 I’m looking to collaborate for a AIML and python-ased project **Doc App**.
  
  🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
  
@@ -81,13 +81,3 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
-**Check the Repositories and don't forget to give a star.** 👇
-
-:star: From [Souravdey777](https://github.com/Souravdey777)
-
-[website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
