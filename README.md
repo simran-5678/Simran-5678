@@ -1,16 +1,15 @@
 ## Hi there 👋
+# Hi there, I'm Simran 👋
 
-<!--
-**simran-5678/Simran-5678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm passionate about technology, coding, and continuous learning. 🚀
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing my studies in Computer Science / Engineering / [your field]
+- 💻 Passionate about Python, Data Science, Backend Development, and more
+- 🌱 Currently learning new technologies and expanding my skills
+
+## 💡 Fun Fact
+
+- I love solving problems, building projects, and exploring new technologies.
