@@ -1,3 +1,5 @@
+https://github.com/vaishnavisonkhaskar/vaishnavisonkhaskar/blob/main/banner.jpg
+
 <p align="center">
   <img src="https://github.com/vaishnavisonkhaskar/vaishnavisonkhaskar/blob/main/profile-photo.jpg" alt="Vaishnavi Sonkhaskar" width="150" style="border-radius:50%;border:5px solid #4A90E2;">
 </p>
