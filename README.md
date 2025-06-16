@@ -6,31 +6,32 @@
   <img src="https://github.com/simran-5678/Simran-5678/blob/93ba25ce6d3f2179eab8174894e94b762245b1d0/Contributor%20SSOC%20(1).png?raw=true" alt="SSOC Contributor 2025" width="150"/>
 </p>
 
-<h1 align="center">✨ Vaishnavi Sonkhaskar ✨</h1>
+<h1 align="center">👩‍💻 Vaishnavi Sonkhaskar</h1>
 
-<p align="center"> 
-  🚀 Robotics Developer | 🐍 Python Backend Developer | 💻 DSA Enthusiast
+<p align="center">
+  <b>🔧 Robotics | 💻 Backend Development | 🤖 AI/ML | 📊 Data Science</b>
 </p>
 
 ---
 
-## 🌟 About Me:
+## 🚀 About Me:
 
-- 🤖 Robotics Developer | Python Backend Developer
-- 🐍 Passionate about automation, intelligent systems & backend development.
-- 🧮 Data Structures and Algorithms Enthusiast.
-- 🌐 Exploring Cloud ☁️, AI 🤖, Machine Learning 📊, and Automation ⚙️.
-- 📫 Email me at: **vaishnavisonkhaskar6@gmail.com**
-- 🎓 Shri Guru Gobind Singh ji Institute of Engineering and Technology (SGGSIET), Nanded
+- 💻 Building intelligent systems, smart automation, and robust backend applications.
+- 🤖 Robotics Developer passionate about blending hardware and software.
+- 🧮 Data Structures & Algorithms Enthusiast (Leetcode / CodeChef).
+- 🔬 Exploring **AI, Machine Learning, Automation, Cloud Computing & DevOps**.
+- 🎓 B.Tech @ Shri Guru Gobind Singh ji Institute of Engineering and Technology (SGGSIET), Nanded.
+- 📬 **Email:** vaishnavisonkhaskar6@gmail.com
 
 ---
 
-## 🚀 Tech Stack:
+## 🛠 Tech Stack
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/DSA-FFA500?style=for-the-badge&logo=data&logoColor=white"/>
@@ -43,17 +44,17 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaishnavisonkhaskar&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4"/>
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=vaishnavisonkhaskar&theme=radical&hide_border=true&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=vaishnavisonkhaskar&theme=radical&hide_border=true&fire=ff69b4&currStreakLabel=ff69b4"/>
 </p>
 
 ---
 
-## 🌐 Connect with me:
+## 🌐 Let's Connect:
 
 <p align="center">
   <a href="mailto:vaishnavisonkhaskar6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -64,4 +65,6 @@
 
 ---
 
-⭐️ **_If you like my profile, do give it a star ⭐ and follow 🤝_**
+⭐ **If you like my work, consider giving a star ⭐ and follow 🤝!**
+
+---
