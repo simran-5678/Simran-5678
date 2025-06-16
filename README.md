@@ -1,22 +1,31 @@
 <p align="center">
   <img src="https://github.com/simran-5678/Simran-5678/blob/bd79f6cc05b72d93e38c8607dddc344a30389d08/file_000000008dd461f69850db4c3dd9739a%20(1).png?raw=true" alt="Banner" />
 </p>
+
 <p align="center">
   <img src="https://github.com/simran-5678/Simran-5678/blob/93ba25ce6d3f2179eab8174894e94b762245b1d0/Contributor%20SSOC%20(1).png?raw=true" alt="SSOC Contributor 2025" width="150"/>
 </p>
 
-### 💫 About Me:
+<h1 align="center">✨ Vaishnavi Sonkhaskar ✨</h1>
+
+<p align="center"> 
+  🚀 Robotics Developer | 🐍 Python Backend Developer | 💻 DSA Enthusiast
+</p>
+
+---
+
+## 🌟 About Me:
 
 - 🤖 Robotics Developer | Python Backend Developer
-- 🐍 Love working on automation, intelligent systems & backend.
+- 🐍 Passionate about automation, intelligent systems & backend development.
 - 🧮 Data Structures and Algorithms Enthusiast.
-- 🌐 Exploring Cloud, AI, Machine Learning, and Automation.
-- 📫 Email me at: vaishnavisonkhaskar6@gmail.com
+- 🌐 Exploring Cloud ☁️, AI 🤖, Machine Learning 📊, and Automation ⚙️.
+- 📫 Email me at: **vaishnavisonkhaskar6@gmail.com**
 - 🎓 Shri Guru Gobind Singh ji Institute of Engineering and Technology (SGGSIET), Nanded
 
 ---
 
-### 🚀 Tech Stack:
+## 🚀 Tech Stack:
 
 <p align="center">
 
@@ -34,15 +43,17 @@
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavisonkhaskar&show_icons=true&theme=radical" alt="Vaishnavi's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavisonkhaskar&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4"/>
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=vaishnavisonkhaskar&theme=radical&hide_border=true&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 🔗 Connect with me:
+## 🌐 Connect with me:
 
 <p align="center">
   <a href="mailto:vaishnavisonkhaskar6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -50,3 +61,7 @@
   <a href="https://www.codechef.com/users/covey_list_82"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://share.google/kvAPAWQFyQUnZyzoU"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
+
+---
+
+⭐️ **_If you like my profile, do give it a star ⭐ and follow 🤝_**
