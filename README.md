@@ -44,6 +44,18 @@
 
 ---
 
+## 📜 Certifications & Achievements
+
+<p align="center">
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/VaishnaviSonkhaskar-6446/8ZED6Q8W?sharingId=17B24DEDA386B349" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Azure%20AI%20Skills%20Challenge-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft AI Skills Challenge">
+  </a>
+</p>
+
+- 🏅 Completed **Microsoft Azure AI Skills Challenge**.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -66,5 +78,3 @@
 ---
 
 ⭐ **If you like my work, consider giving a star ⭐ and follow 🤝!**
-
----
